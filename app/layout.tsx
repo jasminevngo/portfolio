@@ -12,13 +12,13 @@ export const metadata: Metadata = {
     title: "Jasmine V Ngo | AI Product Manager",
     description: "AI Strategy · Education Research · Product Leadership",
     type: "website",
-    images: [{ url: "/og.png", width: 1200, height: 630, alt: "Jasmine V Ngo, AI Product Manager" }],
+    images: [{ url: "/og-2026.png", width: 1200, height: 630, alt: "Jasmine V Ngo, AI Product Manager" }],
   },
   twitter: {
     card: "summary_large_image",
     title: "Jasmine V Ngo | AI Product Manager",
     description: "AI Strategy · Education Research · Product Leadership",
-    images: ["/og.png"],
+    images: ["/og-2026.png"],
   },
 };
 
