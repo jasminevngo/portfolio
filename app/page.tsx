@@ -185,7 +185,7 @@ export default function Home() {
               <a className="button button-dark" href="#work">
                 Explore my work <Arrow />
               </a>
-              <a className="button button-outline" href="https://www.linkedin.com/in/jasminengo1/" target="_blank" rel="noreferrer">
+              <a className="button button-outline" href="https://www.linkedin.com/in/jasminevngo/" target="_blank" rel="noreferrer">
                 LinkedIn <Arrow />
               </a>
               <a className="text-link" href="./JASMINEVNGO_2026.pdf" target="_blank" rel="noreferrer">
@@ -367,7 +367,7 @@ export default function Home() {
         <div className="footer-row">
           <span>Jasmine V Ngo</span>
           <div>
-            <a href="https://www.linkedin.com/in/jasminengo1/" target="_blank" rel="noreferrer">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/jasminevngo/" target="_blank" rel="noreferrer">LinkedIn</a>
             <a href="https://github.com/jasminevngo" target="_blank" rel="noreferrer">GitHub</a>
             <a href="./JASMINEVNGO_2026.pdf" target="_blank" rel="noreferrer">Résumé</a>
           </div>
